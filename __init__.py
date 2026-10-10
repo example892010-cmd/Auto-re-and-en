@@ -1,1 +1,1 @@
-"""Shared utility package for the ANIFLIX rename bot."""
+"""Pyrogram smart-plugin package for the ANIFLIX rename bot."""
